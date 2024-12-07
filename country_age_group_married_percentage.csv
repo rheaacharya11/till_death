@@ -1,0 +1,191 @@
+Country or area,AgeGroup,MeanAge,MarriedPercentage,Continent
+Argentina,[15-19],17.0,2.3625,South America
+Argentina,[20-24],22.0,18.54,South America
+Argentina,[25-29],27.0,42.31,South America
+Argentina,[30-34],32.0,57.220000000000006,South America
+Argentina,[35-39],37.0,63.85,South America
+Argentina,[40-44],42.0,66.53999999999999,South America
+Argentina,[45-49],47.0,67.58,South America
+Argentina,[50-54],52.0,66.83,South America
+Argentina,[55-59],57.0,65.42,South America
+Argentina,[60-64],62.0,62.36,South America
+Argentina,[65+],67.5,47.1,South America
+Azerbaijan,[15-19],17.0,24.234375,Asia
+Azerbaijan,[20-24],22.0,40.28636363636364,Asia
+Azerbaijan,[25-29],27.0,55.720454545454544,Asia
+Azerbaijan,[30-34],32.0,63.71590909090909,Asia
+Azerbaijan,[35-39],37.0,66.51590909090909,Asia
+Azerbaijan,[40-44],42.0,67.7,Asia
+Azerbaijan,[45-49],47.0,67.22500000000001,Asia
+Azerbaijan,[50-54],52.0,68.0575,Asia
+Azerbaijan,[55-59],57.0,65.0725,Asia
+Azerbaijan,[60-64],62.0,64.73666666666666,Asia
+China,[15-19],17.0,1.822222222222222,Asia
+China,[20-24],22.0,32.26111111111111,Asia
+China,[25-29],27.0,76.86111111111111,Asia
+China,[30-34],32.0,91.24444444444445,Asia
+China,[35-39],37.0,93.85555555555555,Asia
+China,[40-44],42.0,94.07222222222222,Asia
+China,[45-49],47.0,93.30555555555556,Asia
+China,[50-54],52.0,91.79375,Asia
+China,[55-59],57.0,88.70625,Asia
+China,[60-64],62.0,84.52142857142857,Asia
+China,[65+],67.5,61.96,Asia
+Egypt,[15-19],17.0,44.80980392156863,Africa
+Egypt,[20-24],22.0,46.519642857142856,Africa
+Egypt,[25-29],27.0,53.00178571428571,Africa
+Egypt,[30-34],32.0,56.339285714285715,Africa
+Egypt,[35-39],37.0,56.84285714285714,Africa
+Egypt,[40-44],42.0,55.323214285714286,Africa
+Egypt,[45-49],47.0,53.38392857142857,Africa
+Egypt,[50-54],52.0,54.6625,Africa
+Egypt,[55-59],57.0,51.65,Africa
+Egypt,[60-64],62.0,45.4,Africa
+Egypt,[65+],67.5,51.7,Africa
+France,[15-19],17.0,3.0073529411764706,Europe
+France,[20-24],22.0,23.855128205128207,Europe
+France,[25-29],27.0,51.18974358974359,Europe
+France,[30-34],32.0,65.42564102564103,Europe
+France,[35-39],37.0,70.6025641025641,Europe
+France,[40-44],42.0,72.6076923076923,Europe
+France,[45-49],47.0,73.37820512820512,Europe
+France,[50-54],52.0,77.34411764705882,Europe
+France,[55-59],57.0,75.84411764705882,Europe
+France,[60-64],62.0,72.76470588235294,Europe
+France,[65+],67.5,48.7,Europe
+India,[15-19],17.0,37.53809523809524,Asia
+India,[20-24],22.0,49.464285714285715,Asia
+India,[25-29],27.0,57.53809523809524,Asia
+India,[30-34],32.0,60.49166666666666,Asia
+India,[35-39],37.0,60.30833333333333,Asia
+India,[40-44],42.0,58.858333333333334,Asia
+India,[45-49],47.0,57.32777777777778,Asia
+India,[50-54],52.0,58.31923076923077,Asia
+India,[55-59],57.0,56.49615384615385,Asia
+India,[60-64],62.0,48.37692307692308,Asia
+Indonesia,[15-19],17.0,34.80909090909091,Asia
+Indonesia,[20-24],22.0,47.83090909090909,Asia
+Indonesia,[25-29],27.0,59.267272727272726,Asia
+Indonesia,[30-34],32.0,63.70363636363636,Asia
+Indonesia,[35-39],37.0,64.41090909090909,Asia
+Indonesia,[40-44],42.0,63.130909090909086,Asia
+Indonesia,[45-49],47.0,61.19454545454545,Asia
+Indonesia,[50-54],52.0,62.904999999999994,Asia
+Indonesia,[55-59],57.0,59.75789473684211,Asia
+Indonesia,[60-64],62.0,52.126315789473686,Asia
+Iran (Islamic Republic of),[15-19],17.0,14.875,Asia
+Iran (Islamic Republic of),[20-24],22.0,47.35,Asia
+Iran (Islamic Republic of),[25-29],27.0,76.675,Asia
+Iran (Islamic Republic of),[30-34],32.0,89.0875,Asia
+Iran (Islamic Republic of),[35-39],37.0,92.9125,Asia
+Iran (Islamic Republic of),[40-44],42.0,93.25625,Asia
+Iran (Islamic Republic of),[45-49],47.0,92.3,Asia
+Iran (Islamic Republic of),[50-54],52.0,89.23125,Asia
+Iran (Islamic Republic of),[55-59],57.0,85.6,Asia
+Iran (Islamic Republic of),[60-64],62.0,79.025,Asia
+Iran (Islamic Republic of),[65+],67.5,64.74375,Asia
+Mexico,[15-19],17.0,9.69,North America
+Mexico,[20-24],22.0,25.240000000000002,North America
+Mexico,[25-29],27.0,43.07666666666667,North America
+Mexico,[30-34],32.0,54.46333333333334,North America
+Mexico,[35-39],37.0,59.723333333333336,North America
+Mexico,[40-44],42.0,62.056666666666665,North America
+Mexico,[45-49],47.0,63.1,North America
+Mexico,[50-54],52.0,66.86923076923077,North America
+Mexico,[55-59],57.0,66.63076923076923,North America
+Mexico,[60-64],62.0,63.93076923076923,North America
+Mexico,[65+],67.5,55.1,North America
+Nigeria,[15-19],17.0,44.96,Africa
+Nigeria,[20-24],22.0,46.79666666666667,Africa
+Nigeria,[25-29],27.0,49.15,Africa
+Nigeria,[30-34],32.0,51.120000000000005,Africa
+Nigeria,[35-39],37.0,52.11666666666667,Africa
+Nigeria,[40-44],42.0,51.06333333333334,Africa
+Nigeria,[45-49],47.0,50.09,Africa
+Nigeria,[50-54],52.0,54.75,Africa
+Nigeria,[55-59],57.0,53.0125,Africa
+Nigeria,[60-64],62.0,51.05833333333334,Africa
+Republic of Korea,[15-19],17.0,0.6238095238095238,Asia
+Republic of Korea,[20-24],22.0,11.628571428571428,Asia
+Republic of Korea,[25-29],27.0,48.680952380952384,Asia
+Republic of Korea,[30-34],32.0,79.4,Asia
+Republic of Korea,[35-39],37.0,87.82857142857144,Asia
+Republic of Korea,[40-44],42.0,88.98095238095237,Asia
+Republic of Korea,[45-49],47.0,87.83333333333333,Asia
+Republic of Korea,[50-54],52.0,85.06666666666668,Asia
+Republic of Korea,[55-59],57.0,80.88095238095238,Asia
+Republic of Korea,[60-64],62.0,73.775,Asia
+Russian Federation,[15-19],17.0,4.425,Europe
+Russian Federation,[20-24],22.0,41.25833333333333,Europe
+Russian Federation,[25-29],27.0,51.06666666666666,Europe
+Russian Federation,[30-34],32.0,53.92083333333333,Europe
+Russian Federation,[35-39],37.0,54.37083333333334,Europe
+Russian Federation,[40-44],42.0,54.70416666666667,Europe
+Russian Federation,[45-49],47.0,54.82916666666667,Europe
+Russian Federation,[50-54],52.0,61.7,Europe
+Russian Federation,[55-59],57.0,60.28125,Europe
+Russian Federation,[60-64],62.0,65.775,Europe
+State of Palestine,[15-19],17.0,23.115000000000002,Asia
+State of Palestine,[20-24],22.0,47.21,Asia
+State of Palestine,[25-29],27.0,67.0,Asia
+State of Palestine,[30-34],32.0,75.31,Asia
+State of Palestine,[35-39],37.0,76.97999999999999,Asia
+State of Palestine,[40-44],42.0,77.035,Asia
+State of Palestine,[45-49],47.0,75.8,Asia
+State of Palestine,[50-54],52.0,75.82857142857142,Asia
+State of Palestine,[55-59],57.0,70.75833333333334,Asia
+State of Palestine,[60-64],62.0,65.50833333333334,Asia
+State of Palestine,[65+],67.5,59.7,Asia
+Thailand,[15-19],17.0,19.97222222222222,Asia
+Thailand,[20-24],22.0,32.31111111111111,Asia
+Thailand,[25-29],27.0,47.400000000000006,Asia
+Thailand,[30-34],32.0,55.31111111111111,Asia
+Thailand,[35-39],37.0,58.911111111111104,Asia
+Thailand,[40-44],42.0,60.05555555555556,Asia
+Thailand,[45-49],47.0,59.71666666666667,Asia
+Thailand,[50-54],52.0,68.625,Asia
+Thailand,[55-59],57.0,65.60000000000001,Asia
+Thailand,[60-64],62.0,60.56666666666666,Asia
+Turkey,[15-19],17.0,33.526923076923076,Asia
+Turkey,[20-24],22.0,49.04615384615385,Asia
+Turkey,[25-29],27.0,60.99038461538461,Asia
+Turkey,[30-34],32.0,65.94423076923077,Asia
+Turkey,[35-39],37.0,66.74807692307692,Asia
+Turkey,[40-44],42.0,66.12115384615385,Asia
+Turkey,[45-49],47.0,65.41538461538461,Asia
+Turkey,[50-54],52.0,65.97631578947369,Asia
+Turkey,[55-59],57.0,63.79210526315789,Asia
+Turkey,[60-64],62.0,57.986111111111114,Asia
+Turkey,[65+],67.5,60.1125,Asia
+Ukraine,[15-19],17.0,36.77272727272727,Europe
+Ukraine,[20-24],22.0,47.05652173913043,Europe
+Ukraine,[25-29],27.0,54.20869565217391,Europe
+Ukraine,[30-34],32.0,55.300000000000004,Europe
+Ukraine,[35-39],37.0,55.14782608695653,Europe
+Ukraine,[40-44],42.0,54.71304347826087,Europe
+Ukraine,[45-49],47.0,53.17272727272727,Europe
+Ukraine,[50-54],52.0,62.121428571428574,Europe
+Ukraine,[55-59],57.0,60.550000000000004,Europe
+Ukraine,[60-64],62.0,68.85000000000001,Europe
+United Kingdom,[15-19],17.0,1.35,Europe
+United Kingdom,[20-24],22.0,18.3,Europe
+United Kingdom,[25-29],27.0,45.78095238095238,Europe
+United Kingdom,[30-34],32.0,62.86190476190476,Europe
+United Kingdom,[35-39],37.0,70.18333333333332,Europe
+United Kingdom,[40-44],42.0,73.12619047619049,Europe
+United Kingdom,[45-49],47.0,74.4095238095238,Europe
+United Kingdom,[50-54],52.0,74.80952380952381,Europe
+United Kingdom,[55-59],57.0,73.75714285714287,Europe
+United Kingdom,[60-64],62.0,70.85952380952381,Europe
+United Kingdom,[65+],67.5,53.5,Europe
+United States of America,[15-19],17.0,3.35,North America
+United States of America,[20-24],22.0,28.542105263157893,North America
+United States of America,[25-29],27.0,54.636842105263156,North America
+United States of America,[30-34],32.0,66.5578947368421,North America
+United States of America,[35-39],37.0,71.13857142857142,North America
+United States of America,[40-44],42.0,72.35735294117647,North America
+United States of America,[45-49],47.0,56.458333333333336,North America
+United States of America,[50-54],52.0,56.5,North America
+United States of America,[55-59],57.0,61.5,North America
+United States of America,[60-64],62.0,60.35625,North America
+United States of America,[65+],67.5,56.55,North America
