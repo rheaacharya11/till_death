@@ -1,3 +1,5 @@
+// Artist's statement
+
 // Credits: World Widows Report for data
 // Used ChatGPT for debugging and some template code
 // Took a lot of inspiration from Juji's framework and from the scrollytelling from class.
